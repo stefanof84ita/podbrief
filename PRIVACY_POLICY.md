@@ -1,6 +1,6 @@
 # Privacy Policy — PodBrief
 
-**Last updated:** March 27, 2026
+**Last updated:** April 3, 2026
 
 ## Overview
 
@@ -30,6 +30,8 @@ PodBrief sends podcast transcripts to third-party AI providers for analysis. Whi
 - **Custom providers** — as configured by you
 
 PodBrief also uses **ExtensionPay** (extensionpay.com) for Pro subscription management, which processes payments through Stripe. See [ExtensionPay's Privacy Policy](https://extensionpay.com/privacy) and [Stripe's Privacy Policy](https://stripe.com/privacy).
+
+PodBrief uses **Google Analytics 4** (via the Measurement Protocol) to collect anonymous usage events such as extension install, first summary generated, and onboarding completion. These events contain no personally identifiable information — only a random client ID generated locally. See [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ## Data Storage
 
